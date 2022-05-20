@@ -1,1 +1,1 @@
-# miro
+# miro (animated website)
